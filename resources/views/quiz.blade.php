@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Quiz Drag & Drop</title>
+    <title>Quiz </title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -126,7 +126,7 @@
 </head>
 
 <body>
-    <h1 style="text-align:center;">Quiz Drag & Drop</h1>
+    <h1 style="text-align:center;">Quiz</h1>
 
     <div class="container">
 
